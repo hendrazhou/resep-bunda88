@@ -1,0 +1,14 @@
+{
+  "hosting": {
+  
+  
+  "site": "resep-bunda88",
+  
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
